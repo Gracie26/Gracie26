@@ -12,3 +12,4 @@ Age = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Your Named is {0}  ", name);
 Console.WriteLine("Your Motive in Life is {0}",Motive);
 Console.WriteLine("And you are {0} years old", Age);
+//these are new changes that will be push to master branch on github by Merry Grace
